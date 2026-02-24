@@ -1,0 +1,16 @@
+PS C:\Users\admin\Documents\GitHub\PUEGOTscrape> py tasu_test.py
+Bypassing bot protection...
+Looking for 'More details' button...
+Clicked! Waiting for specs to load...
+
+--- Scraped Data ---
+{
+    "Product URL": "https://www.walmart.com/ip/Peugeot-Tidore-Nutmeg-Gringer-and-Mill-Clear/190537224?classType=REGULAR",
+    "Image Link": "https://i5.walmartimages.com/seo/Peugeot-Tidore-Nutmeg-Gringer-and-Mill-Clear_8920325e-00ca-4c94-ae2a-dc0bdb08836b.1dfc46ae09003759ddb100dab70a7bac.jpeg?odnHeight=2000&odnWidth=2000&odnBg=FFFFFF",
+    "Overview": "Peugeot Tidore Nutmeg Grinder 11cm/4.25\" - Peugeot Tidore Nutmeg Grinder 11cm/4.25 - PM19501 The Peugeot nutmeg mills are 
+designed to make it easy to get fresh, full nutmeg flavor, without risking finger safety. Four claws hold whole nutmeg in place and when the handle is turned clockwise, two safely concealed blades shave thin pieces of the nut, releasing the fresh flavors and aromas. SKU: PM19501 
+Size: 11cm/4.258221 Color: Acrylic",
+    "Size": "L",
+    "Material": "Acrylic",
+    "Weight": "0.49 lb"
+}
